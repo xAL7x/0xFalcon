@@ -25,3 +25,4 @@
  ![image](https://user-images.githubusercontent.com/76629405/147749039-ac562649-0096-4e82-a004-5071f8e8384f.png)
  
  Subdomains Brute Force: ``` python3 exploit.py -u subdomain -T http://example.com -L list.txt ```
+ and you can also Brute Force Attack (Files and Folders), Extract Picture metadata.
