@@ -10,7 +10,7 @@
 
 ``` git clone https://github.com/hassanalharbi123/0xFalcon ```
 
-``` cd 0xFlacon ```
+``` cd 0xFalcon ```
 
 ``` python3 install.py ```
 <hr>
